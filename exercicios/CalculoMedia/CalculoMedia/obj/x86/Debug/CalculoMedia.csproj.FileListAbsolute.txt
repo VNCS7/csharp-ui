@@ -1,0 +1,15 @@
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\obj\x86\Debug\CalculoMedia.Form1.resources
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\obj\x86\Debug\CalculoMedia.csproj.GenerateResource.Cache
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Form1.resources
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csproj.GenerateResource.Cache
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csprojResolveAssemblyReference.cache
