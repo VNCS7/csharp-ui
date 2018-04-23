@@ -1,0 +1,15 @@
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\bin\Debug\PrimeiraTela.exe
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\bin\Debug\PrimeiraTela.pdb
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\obj\x86\Debug\PrimeiraTela.Properties.Resources.resources
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\obj\x86\Debug\PrimeiraTela.csproj.GenerateResource.Cache
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\obj\x86\Debug\PrimeiraTela.exe
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\obj\x86\Debug\PrimeiraTela.pdb
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\PrimeiraTela\obj\x86\Debug\PrimeiraTela.Soma.resources
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\PrimeiraTela\PrimeiraTela\obj\x86\Debug\PrimeiraTela.exe
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\PrimeiraTela\PrimeiraTela\obj\x86\Debug\PrimeiraTela.pdb
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\PrimeiraTela\PrimeiraTela\bin\Debug\PrimeiraTela.exe
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\PrimeiraTela\PrimeiraTela\bin\Debug\PrimeiraTela.pdb
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\PrimeiraTela\PrimeiraTela\obj\x86\Debug\PrimeiraTela.Soma.resources
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\PrimeiraTela\PrimeiraTela\obj\x86\Debug\PrimeiraTela.Properties.Resources.resources
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\PrimeiraTela\PrimeiraTela\obj\x86\Debug\PrimeiraTela.csproj.GenerateResource.Cache
+C:\Users\ETEC_DEV\Documents\visual studio 2010\Projects\PrimeiraTela\PrimeiraTela\obj\x86\Debug\PrimeiraTela.csprojResolveAssemblyReference.cache
