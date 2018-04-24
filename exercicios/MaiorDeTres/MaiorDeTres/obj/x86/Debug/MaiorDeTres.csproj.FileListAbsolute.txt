@@ -1,0 +1,31 @@
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\obj\x86\Debug\MaiorDeTres.csproj.GenerateResource.Cache
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+C:\Users\ETEC_DEV\AppData\Local\Temporary Projects\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.write.1.tlog
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\ResolveAssemblyReference.cache
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.read.1.tlog
+\\LAB-04-11\Users\Public\Nova pasta\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.write.1.tlog

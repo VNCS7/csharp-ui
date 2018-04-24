@@ -13,3 +13,22 @@ C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedi
 C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
 C:\Users\ETEC_DEV\documents\visual studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csproj.GenerateResource.Cache
 C:\Users\ETEC_DEV\Documents\Visual Studio 2010\Projects\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csprojResolveAssemblyReference.cache
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csprojResolveAssemblyReference.cache
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Form1.resources
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\vcalv\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\GenerateResource.write.1.tlog
+\\LAB-04-11\Users\Public\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+\\LAB-04-11\Users\Public\Nova pasta\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb

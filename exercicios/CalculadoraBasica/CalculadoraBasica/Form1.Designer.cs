@@ -58,7 +58,7 @@
             this.nm1_txtbox.Name = "nm1_txtbox";
             this.nm1_txtbox.Size = new System.Drawing.Size(81, 20);
             this.nm1_txtbox.TabIndex = 1;
-            this.nm1_txtbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.nm1_txtbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // nm2_txtbox
             // 
@@ -66,7 +66,7 @@
             this.nm2_txtbox.Name = "nm2_txtbox";
             this.nm2_txtbox.Size = new System.Drawing.Size(81, 20);
             this.nm2_txtbox.TabIndex = 3;
-            this.nm2_txtbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.nm2_txtbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.nm2_txtbox.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // vl2_lbl
@@ -85,7 +85,7 @@
             this.resultado_txtbox.Name = "resultado_txtbox";
             this.resultado_txtbox.Size = new System.Drawing.Size(257, 20);
             this.resultado_txtbox.TabIndex = 4;
-            this.resultado_txtbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.resultado_txtbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // result_lbl
             // 

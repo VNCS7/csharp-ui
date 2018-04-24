@@ -193,7 +193,7 @@
             this.Controls.Add(this.nmaluno_lbl);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Cálculo de Média";
             this.ResumeLayout(false);
             this.PerformLayout();
 

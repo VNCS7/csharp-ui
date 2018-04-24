@@ -1,0 +1,9 @@
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\bin\Release\CalculadoraBasica.exe
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\bin\Release\CalculadoraBasica.pdb
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\ResolveAssemblyReference.cache
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\CalculadoraBasica.Form1.resources
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\CalculadoraBasica.Properties.Resources.resources
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\GenerateResource.read.1.tlog
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\GenerateResource.write.1.tlog
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\CalculadoraBasica.exe
+\\LAB-04-11\Users\Public\Nova pasta\CalculadoraBasica\CalculadoraBasica\obj\x86\Release\CalculadoraBasica.pdb
